@@ -1,0 +1,9 @@
+.DS_STORE
+.ipynb_checkpoints
+__pycache__
+/torch_testing_dev
+/dataset_parties_dev
+/coach_dev
+/sequences_with_gaps_dataset_creator
+/torch_state_control_dev
+/sequences_creator_dev
